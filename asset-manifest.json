@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/dv/static/css/main.e6c13ad2.css",
-    "main.js": "/dv/static/js/main.c5e2d6c3.js",
-    "static/js/787.c5c21cb5.chunk.js": "/dv/static/js/787.c5c21cb5.chunk.js",
-    "static/media/ceac_03_25.csv": "/dv/static/media/ceac_03_25.fcc579d80ca65c960391.csv",
-    "static/media/ceac_03_23.csv": "/dv/static/media/ceac_03_23.63fe119cb47c7bfaf4f0.csv",
-    "index.html": "/dv/index.html",
-    "main.e6c13ad2.css.map": "/dv/static/css/main.e6c13ad2.css.map",
-    "main.c5e2d6c3.js.map": "/dv/static/js/main.c5e2d6c3.js.map",
-    "787.c5c21cb5.chunk.js.map": "/dv/static/js/787.c5c21cb5.chunk.js.map"
+    "main.css": "/dv1/static/css/main.e6c13ad2.css",
+    "main.js": "/dv1/static/js/main.d32b518f.js",
+    "static/js/787.c5c21cb5.chunk.js": "/dv1/static/js/787.c5c21cb5.chunk.js",
+    "static/media/ceac_03_25.csv": "/dv1/static/media/ceac_03_25.fcc579d80ca65c960391.csv",
+    "static/media/ceac_03_23.csv": "/dv1/static/media/ceac_03_23.63fe119cb47c7bfaf4f0.csv",
+    "index.html": "/dv1/index.html",
+    "main.e6c13ad2.css.map": "/dv1/static/css/main.e6c13ad2.css.map",
+    "main.d32b518f.js.map": "/dv1/static/js/main.d32b518f.js.map",
+    "787.c5c21cb5.chunk.js.map": "/dv1/static/js/787.c5c21cb5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.c5e2d6c3.js"
+    "static/js/main.d32b518f.js"
   ]
 }
